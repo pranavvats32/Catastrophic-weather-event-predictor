@@ -25,6 +25,7 @@ The weather information has been taken from the website NCEP/NCAR. The region ta
 
 
 ## Architecture / Model 
+''' 
 mermaid
 graph LR
 A[Weather Dataset] --> B[z-score normalization]
@@ -33,7 +34,8 @@ C --> D[DBSCAN clustering]
 C --> E[k-means clustering]
 D-->F[Performance analysis]
 E-->F
-F-->g[Compaing results] 
+F-->g[Compaing results]
+'''
 
 > The Data from the dataset is preprocessed. Data retrieval and data normalisation are part of this preparation.The extracted data is in 4D form in the data retrieval step, with latitude, longitude, day, and its associated value as four co-ordinates. The data is then converted to 2D data, with the day and value of each grid, as well as latitude and longitude as co-ordinates, for easier access. The converted data is organised in chronological order, with each year's set of values grouped together.
 
