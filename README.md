@@ -1,5 +1,6 @@
 # Catastrophic weather events prediction
-
+ Pranav Vats - RA1811003010225
+ Vanshika Mishra - RA1811031010036
 
 ## Problem Statement
 Over the years, due to extreme weather we have had many catastrophic events which have caused loss of human life and property. The current methods are complex and lack accuracy and hence not dependable.
