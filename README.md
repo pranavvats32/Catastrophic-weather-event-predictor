@@ -11,7 +11,7 @@ With the dataset that is available from the past, which provides us the informat
 
 ## Dataset Used
 
-The weather information has been taken from the website NCEP/NCAR. The region taken for weather prediction is from latitude of 8°N to 18°N to a longitude of 72°E to 78° E which is the land area that covers Kerala, Karnataka, Goa and southern parts of Maharashtra along with arabian sea. The atmospheric variables like air temperature, vertical velocity (omega), relative humidity, specific humidity, u-wind and v-wind are taken from 1 January 1948 to 31 December 2017 are downloaded in the format of NetCDF. On daily basis, the data for all the parameters have been taken.
+The weather information has been taken from the website Kaggle. The region taken for weather prediction is the land area that covers Kerala. Monthly rainfall for Indian state of Kerala from 1901 to 2017. For each year, monthly rainfall is shown in each column. There is also an Annual rainfall column. Rainfall is measured in mms (millimeters).
 
 ## Pipeline of the project
 
