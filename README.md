@@ -28,8 +28,7 @@ The weather information has been taken from the website Kaggle. The region taken
 
 ![alt text](https://github.com/pranavvats32/Catastrophic-weather-event-predictor/blob/main/Architecture.jpeg)
 
-> The Data from the dataset is preprocessed. Data retrieval and data normalisation are part of this preparation.The extracted data is in 4D form in the data retrieval step, with latitude, longitude, day, and its associated value as four co-ordinates. The data is then converted to 2D data, with the day and value of each grid, as well as latitude and longitude as co-ordinates, for easier access. The converted data is organised in chronological order, with each year's set of values grouped together.
-
+> The Data from the dataset is preprocessed. Data retrieval and data normalisation are part of this preparation.
 
 ## Predicted Output
 The Catastrophic weather events predictor allows users to easily develop models that make highly accurate predictions. We trained on dataset from the past and applied to new data forecasting the likelihood of the next weather related catastrophic event. 
