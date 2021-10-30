@@ -1,7 +1,5 @@
 # Pandas Cheatsheet
 
-N. P. O'Donnell, 2020
-
 ## Importing the Library
 
 ```
