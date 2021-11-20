@@ -26,7 +26,6 @@ The weather information has been taken from the website Kaggle. The region taken
 
 ## Architecture / Model 
 
-![alt text](https://github.com/pranavvats32/Catastrophic-weather-event-predictor/blob/main/Architecture.jpeg)
 
 > The Data from the dataset is preprocessed. Data retrieval and data normalisation are part of this preparation.
 
