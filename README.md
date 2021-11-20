@@ -7,7 +7,7 @@ Over the years, due to extreme weather we have had many catastrophic events whic
 
 
 ## Objective
-With the dataset that is available from the past, which provides us the information about the weather conditions over the past few years, we can implement ML algorithms such as Logistic Regression,Decision Tree,Random Forest and Gaussian NB to predict the estimate of upcoming catastrophic weather events, which can be used to save valuable human life and property.
+With the dataset that is available from the past, which provides us the information about the weather conditions over the past few years, we can implement ML algorithms such as Logistic Regression, Decision Tree, Random Forest and Gaussian NB to predict the estimate of upcoming catastrophic weather events, which can be used to save valuable human life and property.
 
 ## Dataset Used
 
